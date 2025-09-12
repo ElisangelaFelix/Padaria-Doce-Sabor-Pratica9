@@ -50,19 +50,10 @@ O projeto simula o site de uma padaria com catálogo de produtos, carrinho de co
 - Classes como `.produto`, `.carrinho-container`, `.painel-valores`, `.btn-floating` controlam layout e responsividade.
 
 ---
-## Estrutura do Projeto
-
-📄 index.html → Página principal da Padaria Doce Sabor.  
-📄 script.js → Regras de negócio (carrinho, pontos, painel).  
-📄 styles.css → Estilização e responsividade.  
-📄 README.txt → Explicação das variáveis (este arquivo).  
-📄 testes.html → Página para demonstrações de código/testes.  
-📁 exemplos/ → Exemplos de uso dos conceitos aplicados.
-
----
 ## Observações
 - O sistema utiliza `localStorage` para salvar carrinho temporariamente.  
 - Pontos de fidelidade são acumulados a cada compra (1 ponto a cada R$10).  
 - As promoções podem ser ajustadas pelo painel administrativo.
+
 
 Desenvolvido por Elisangela Felix
