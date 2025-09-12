@@ -4,7 +4,7 @@ let produtos = [
   { id: 'BEB001', nome: 'Café Expresso', preco: 3.0, estoque: 100, vendidos: 0, promocao: 0, imagem: "images/produto/cafe.jpg" },
   { id: 'SAL002', nome: 'Pão de Queijo', preco: 6.0, estoque: 100, vendidos: 0, promocao: 0, imagem: "images/produto/pao-de-queijo.png" },
   { id: 'DOC001', nome: 'Donut Gourmet', preco: 8.0, estoque: 50, vendidos: 0, promocao: 0, imagem: "images/produto/donut.png" },
-  { id: 'BEB002', nome: 'Suco Natural', preco: 5.0, estoque: 100, vendidos: 0, promocao: 0, imagem: "images/produto/sucos.jpg" },
+  { id: 'BEB002', nome: 'Suco Natural', preco: 5.0, estoque: 100, vendidos: 0, promocao: 0, imagem: "images/produto/sucos.png" },
 ];
 
 let carrinho = [];
@@ -382,5 +382,6 @@ if (menuToggle && nav) {
   });
 }
 };
+
 
 /*  FIM  */
