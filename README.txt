@@ -59,5 +59,6 @@ O projeto simula o site de uma padaria com catálogo de produtos, carrinho de co
 Desenvolvido por Elisangela Felix
 
 ✅Link com o Resultado do site:
-https://elisangelafelix.github.io/Padaria-do-Bairro/
+https://elisangelafelix.github.io/Padaria-Doce-Sabor/
+
 
